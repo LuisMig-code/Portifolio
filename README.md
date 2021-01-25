@@ -11,7 +11,7 @@ Connoisseur of Data Science and lover of historical books, I am a young data sci
 
 My credentials include a technical maintenance and IT support fee from SENAI, one of the largest and most innovative educational institutions in Brazil and a Bachelor of Computer Science from UFMA (federal university of Maranhão), the largest educational institution in the Brazilian state from Maranhão
 
-** Experience in: ** Python, machine learning, Web scrapping (B4S) and Sales Analysis (time series)
+**Experience in:** Python, machine learning, Web scrapping (B4S) and Sales Analysis (time series)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-miguel-4361771a0/)
