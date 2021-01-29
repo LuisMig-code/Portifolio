@@ -15,7 +15,7 @@ Minhas credenciais incluem um curso técnico de Manutenção e Suporte em Inform
 **Experiência em:** Python, Machine Learning, Web scrapping (B4S) e análise de vendas (time series)
 
 <hr>
-<br>
+
 *EN* <br>
 Connoisseur of data science and lover of historical books, I am a young data scientist who aspires to a great career. combined with the capacity for critical analysis, teamwork, speed and organization, in the creation of a complete project that goes beyond expectations and results, having already solved several problems of an administrative nature for companies and agencies.
 
