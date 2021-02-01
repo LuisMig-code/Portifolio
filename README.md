@@ -33,6 +33,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 ## Projetos:
 
 * **Recebendo e transformando informações pessoas para o Formato BR com Python :** https://github.com/LuisMig-code/Recebendo-dados-e-colocando-em-formato-BR
+* **Análise do desempneho de estudantes em vestibulares :** https://github.com/LuisMig-code/analise-do-desempenho-de-estudantes | https://luis-miguel-code.medium.com/na-guerra-dos-estudante-quem-estuda-mais-f9ccd8fff646 
 
 ---
 
