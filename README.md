@@ -35,7 +35,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Recebendo e transformando informações pessoas para o Formato BR com Python :** https://github.com/LuisMig-code/Recebendo-dados-e-colocando-em-formato-BR
 * **Análise do desempenho de estudantes americanos em vestibulares :** https://github.com/LuisMig-code/analise-do-desempenho-de-estudantes | https://luis-miguel-code.medium.com/na-guerra-dos-estudante-quem-estuda-mais-f9ccd8fff646 
 * **Usando Machine Learning na detecção de Câncer de mama :** https://github.com/LuisMig-code/Deteccao-de-carcer-de-mama-com-Machine-Learning | https://luis-miguel-code.medium.com/machine-learning-e-o-c%C3%A2ncer-de-mama-b0158e1a0939
-* **Prevendo valores de Celulares usando Machine Learning e RFE** : https://github.com/LuisMig-code/Fazendo-Previs-es-em-Machine-Learning-usando-o-RFE
+* **Prevendo valores de Celulares usando Machine Learning e RFE** : https://github.com/LuisMig-code/Fazendo-Previs-es-em-Machine-Learning-usando-o-RFE | https://luis-miguel-code.medium.com/qual-o-pre%C3%A7o-desse-smartphone-machine-learning-aplicada-a-neg%C3%B3cios-28be78489d67
 
 ---
 
