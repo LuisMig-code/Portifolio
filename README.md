@@ -36,6 +36,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Análise do desempenho de estudantes americanos em vestibulares :** https://github.com/LuisMig-code/analise-do-desempenho-de-estudantes | https://luis-miguel-code.medium.com/na-guerra-dos-estudante-quem-estuda-mais-f9ccd8fff646 
 * **Usando Machine Learning na detecção de Câncer de mama :** https://github.com/LuisMig-code/Deteccao-de-carcer-de-mama-com-Machine-Learning | https://luis-miguel-code.medium.com/machine-learning-e-o-c%C3%A2ncer-de-mama-b0158e1a0939
 * **Prevendo valores de Celulares usando Machine Learning e RFE** : https://github.com/LuisMig-code/Fazendo-Previs-es-em-Machine-Learning-usando-o-RFE | https://luis-miguel-code.medium.com/qual-o-pre%C3%A7o-desse-smartphone-machine-learning-aplicada-a-neg%C3%B3cios-28be78489d67
+* **Prevendo o quão feliz um país é** : https://github.com/LuisMig-code/Prevendo-a-pontuacao-de-felicidade-de-uma-nacao
 * **Análise Exploratória de dados de Restaurante nos EUA 2019-2020** : https://github.com/LuisMig-code/Analise-Exploratoria-de-Restaurantes-nos-EUA | https://luis-miguel-code.medium.com/como-os-restaurantes-se-sa%C3%ADram-em-2020-an%C3%A1lise-explorat%C3%B3ria-5cf3061a609f
 
 ---
