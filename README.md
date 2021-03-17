@@ -38,6 +38,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Prevendo valores de Celulares usando Machine Learning e RFE** : https://github.com/LuisMig-code/Fazendo-Previs-es-em-Machine-Learning-usando-o-RFE | https://luis-miguel-code.medium.com/qual-o-pre%C3%A7o-desse-smartphone-machine-learning-aplicada-a-neg%C3%B3cios-28be78489d67
 * **Prevendo o quão feliz um país é** : https://github.com/LuisMig-code/Prevendo-a-pontuacao-de-felicidade-de-uma-nacao
 * **Análise Exploratória de dados de Restaurante nos EUA 2019-2020** : https://github.com/LuisMig-code/Analise-Exploratoria-de-Restaurantes-nos-EUA | https://luis-miguel-code.medium.com/como-os-restaurantes-se-sa%C3%ADram-em-2020-an%C3%A1lise-explorat%C3%B3ria-5cf3061a609f
+* **Como fazer WEB SCRAPING usando a biblioteca BeautifulSoup** : https://github.com/LuisMig-code/Fazendo-web-scraping-com-a-biblioteca-BeautifulSoup | https://www.linkedin.com/pulse/por-que-eu-devo-aprender-web-scraping-lu%C3%ADs-miguel/
 
 ---
 
