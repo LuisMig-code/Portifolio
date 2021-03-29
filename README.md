@@ -41,8 +41,9 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Como fazer WEB SCRAPING usando a biblioteca BeautifulSoup** : https://github.com/LuisMig-code/Fazendo-web-scraping-com-a-biblioteca-BeautifulSoup | https://www.linkedin.com/pulse/por-que-eu-devo-aprender-web-scraping-lu%C3%ADs-miguel/
 * **Detector de perfis fakes no instagram** : https://github.com/LuisMig-code/Detector-de-perfis-fakes-do-instagram | https://luis-miguel-code.medium.com/prevendo-perfis-fakes-no-instagram-31fbc083d559
 
-<br>
+<br><br>
 ## Projects:
+
 *  **Profile detector fakes on instagram** : https://github.com/LuisMig-code/Detector-de-perfis-fakes-do-instagram | https://luis-miguel-code.medium.com/predicting-fakes-profiles-on-instagram-8281de91184
 
 ---
