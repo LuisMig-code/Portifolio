@@ -46,8 +46,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 ## Projects:
 
 *  **Profile detector fakes on instagram** : https://github.com/LuisMig-code/Detector-de-perfis-fakes-do-instagram | https://luis-miguel-code.medium.com/predicting-fakes-profiles-on-instagram-8281de91184
-*  **HR analysis and job change at Data Scientists** : https://github.com/LuisMig-code/Analise-de-RH-mudanca-de-cargo-dos-cientistas-de-dados
-
+*  **HR analysis and job change at Data Scientists** : https://github.com/LuisMig-code/Analise-de-RH-mudanca-de-cargo-dos-cientistas-de-dados | https://luis-miguel-code.medium.com/how-to-deal-with-unbalanced-classes-in-machine-learning-precision-recall-oversampling-and-9a719d9bb3b0
 ---
 
 
