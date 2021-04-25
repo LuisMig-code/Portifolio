@@ -26,7 +26,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 <hr>
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/Luis-Miguel-Code)
+* [LinkedIn](https://www.linkedin.com/in/luis-miguel-code/)
 * [Medium](https://medium.com/@meireles2013miguel)
 
 
