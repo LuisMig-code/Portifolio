@@ -42,6 +42,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Detector de perfis fakes no instagram** : https://github.com/LuisMig-code/Detector-de-perfis-fakes-do-instagram | https://luis-miguel-code.medium.com/prevendo-perfis-fakes-no-instagram-31fbc083d559
 * **Análise de RH e a mudança de emprego da Cientistas de Dados** : https://github.com/LuisMig-code/Analise-de-RH-mudanca-de-cargo-dos-cientistas-de-dados | https://luis-miguel-code.medium.com/como-lidar-com-classes-desbalanceadas-em-machine-learning-precision-recall-oversampling-e-ce21e3ccb615
 * **Dashboard usando o ChartStudio**:https://github.com/LuisMig-code/Criando-Dashboards-com-o-Chart-Studio
+* **Dashboard com a biblioteca Dash do Plotly** : https://github.com/LuisMig-code/Dash
 
 <br><br>
 ## Projects:
