@@ -12,7 +12,7 @@ Conhecedor de ciência de dados e amante de livros históricos, sou um jovem cie
 
 Minhas credenciais incluem um curso técnico de Manutenção e Suporte em Informática pelo SENAI, uma das maiores e mais inovadoras instituições de ensino do Brasil e um Bacharelado em Ciência da Computação pela UFMA (Universidade Federal do Maranhão), a maior instituição de ensino do estado brasileiro do Maranhão
 
-**Experiência em:** Python, Machine Learning, Web scrapping (B4S) e análise de vendas (time series)
+**Experiência em:** Python, Machine Learning, Web scrapping (B4S) , análise de vendas (time series) e Data Analysis (análises gráficas e Dashboards)
 
 <br>
 
@@ -21,7 +21,7 @@ Connoisseur of data science and lover of historical books, I am a young data sci
 
 My credentials include a technical course on technical maintenance and IT support from SENAI, one of the largest and most innovative educational institutions in Brazil and a Bachelor of Computer Science from UFMA (Federal University of Maranhão), the largest educational institution in the state Brazilian from Maranhão
 
-**Experience in:** Python, machine learning, Web scrapping (B4S) and sales analysis (time series)
+**Experience in:** Python, machine learning, Web scrapping (B4S) , sales analysis (time series) and Data Analysis (graphical analysis and Dashboards)
 
 <hr>
 
