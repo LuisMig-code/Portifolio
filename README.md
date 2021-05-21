@@ -43,6 +43,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Análise de RH e a mudança de emprego da Cientistas de Dados** : https://github.com/LuisMig-code/Analise-de-RH-mudanca-de-cargo-dos-cientistas-de-dados | https://luis-miguel-code.medium.com/como-lidar-com-classes-desbalanceadas-em-machine-learning-precision-recall-oversampling-e-ce21e3ccb615
 * **Dashboard usando o ChartStudio**:https://github.com/LuisMig-code/Criando-Dashboards-com-o-Chart-Studio
 * **Dashboard com a biblioteca Dash do Plotly** : https://github.com/LuisMig-code/Dash
+* **Dashboard Covid Brasil** : https://github.com/LuisMig-code/dash_covid/
 
 <br><br>
 ## Projects:
