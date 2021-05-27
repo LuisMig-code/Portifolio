@@ -52,6 +52,9 @@ My credentials include a technical course on technical maintenance and IT suppor
 
 *  **Profile detector fakes on instagram** : https://github.com/LuisMig-code/Detector-de-perfis-fakes-do-instagram | https://luis-miguel-code.medium.com/predicting-fakes-profiles-on-instagram-8281de91184
 *  **HR analysis and job change at Data Scientists** : https://github.com/LuisMig-code/Analise-de-RH-mudanca-de-cargo-dos-cientistas-de-dados | https://luis-miguel-code.medium.com/how-to-deal-with-unbalanced-classes-in-machine-learning-precision-recall-oversampling-and-9a719d9bb3b0
+*  **Dashboard with the Plotly Dash library** : https://github.com/LuisMig-code/Dash
+*  **Covid Brasil Dashboard** : https://github.com/LuisMig-code/dash_covid/
+*  **Using Python to translate text** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
 ---
 
 
