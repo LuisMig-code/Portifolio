@@ -46,6 +46,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Dashboard Covid Brasil** : https://github.com/LuisMig-code/dash_covid/
 * **Kevin De Bruyne e Data Science** :https://github.com/LuisMig-code/Kevin_De_Bruyne_e_Data_Science | https://luis-miguel-code.medium.com/como-kevin-de-bruyne-usou-ci%C3%AAncia-de-dados-para-a-renova%C3%A7%C3%A3o-de-um-contrato-milion%C3%A1rio-7fce95577946
 * **Usando Python para traduzir textos** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
+* **DataApp TripAdvisor** : https://github.com/LuisMig-code/DataApp-TripAdvisor
 
 <br><br>
 ## Projects:
@@ -55,6 +56,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 *  **Dashboard with the Plotly Dash library** : https://github.com/LuisMig-code/Dash
 *  **Covid Brasil Dashboard** : https://github.com/LuisMig-code/dash_covid/
 *  **Using Python to translate text** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
+*  **DataApp TripAdvisor** : https://github.com/LuisMig-code/DataApp-TripAdvisor
 ---
 
 
