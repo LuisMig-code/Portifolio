@@ -47,6 +47,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Kevin De Bruyne e Data Science** :https://github.com/LuisMig-code/Kevin_De_Bruyne_e_Data_Science | https://luis-miguel-code.medium.com/como-kevin-de-bruyne-usou-ci%C3%AAncia-de-dados-para-a-renova%C3%A7%C3%A3o-de-um-contrato-milion%C3%A1rio-7fce95577946
 * **Usando Python para traduzir textos** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
 * **DataApp TripAdvisor** : https://github.com/LuisMig-code/DataApp-TripAdvisor
+* **Criando um modelo de Machine Learning para NLP do zero com Python** : https://github.com/LuisMig-code/NLP-com-Reviews-de-roupas-femininas | https://luis-miguel-code.medium.com/criando-um-modelo-de-nlp-do-zero-com-python-5ae278568119
 
 <br><br>
 ## Projects:
@@ -57,6 +58,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 *  **Covid Brasil Dashboard** : https://github.com/LuisMig-code/dash_covid/
 *  **Using Python to translate text** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
 *  **DataApp TripAdvisor** : https://github.com/LuisMig-code/DataApp-TripAdvisor
+*  **Creating a Machine Learning Model for NLP from Scratch with Python** : https://github.com/LuisMig-code/NLP-com-Reviews-de-roupas-femininas | https://luis-miguel-code.medium.com/creating-an-nlp-template-from-scratch-with-python-a6dcd90513e7
 ---
 
 
