@@ -48,6 +48,9 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Usando Python para traduzir textos** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
 * **DataApp TripAdvisor** : https://github.com/LuisMig-code/DataApp-TripAdvisor
 * **Criando um modelo de Machine Learning para NLP do zero com Python** : https://github.com/LuisMig-code/NLP-com-Reviews-de-roupas-femininas | https://luis-miguel-code.medium.com/criando-um-modelo-de-nlp-do-zero-com-python-5ae278568119
+* **Criando um modelo de Regressão Linear em Python** : https://github.com/LuisMig-code/Linear-Regression-com-precos-de-carros
+* **KNN - Tutorial** : https://github.com/LuisMig-code/KNN-Tutorial
+* **KMeans - Tutorial** : https://github.com/LuisMig-code/KMeans-Tutorial
 
 <br><br>
 ## Projects:
