@@ -50,7 +50,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Criando um modelo de Machine Learning para NLP do zero com Python** : https://github.com/LuisMig-code/NLP-com-Reviews-de-roupas-femininas | https://luis-miguel-code.medium.com/criando-um-modelo-de-nlp-do-zero-com-python-5ae278568119
 * **Criando um modelo de Regressão Linear em Python** : https://github.com/LuisMig-code/Linear-Regression-com-precos-de-carros
 * **KNN - Tutorial** : https://github.com/LuisMig-code/KNN-Tutorial
-* **KMeans - Tutorial** : https://github.com/LuisMig-code/KMeans-Tutorial
+* **KMeans - Tutorial** : https://github.com/LuisMig-code/KMeans-Tutorial | https://luis-miguel-code.medium.com/knn-k-nearest-neighbor-e-kneighborsclassifier-o-que-%C3%A9-como-funciona-e-exemplo-pr%C3%A1tico-5fdf181f460c
 * **Dino Game feito em Python**: https://github.com/LuisMig-code/Dino-Game-with-Python
 
 <br><br>
@@ -63,6 +63,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 *  **Using Python to translate text** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
 *  **DataApp TripAdvisor** : https://github.com/LuisMig-code/DataApp-TripAdvisor
 *  **Creating a Machine Learning Model for NLP from Scratch with Python** : https://github.com/LuisMig-code/NLP-com-Reviews-de-roupas-femininas | https://luis-miguel-code.medium.com/creating-an-nlp-template-from-scratch-with-python-a6dcd90513e7
+*  **KNN - Tutorial** : https://github.com/LuisMig-code/KNN-Tutorial | https://luis-miguel-code.medium.com/knn-k-nearest-neighbors-and-kneighborsclassifier-what-it-is-how-it-works-and-a-practical-914ec089e467
 *  **Dino Game with Python**: https://github.com/LuisMig-code/Dino-Game-with-Python
 ---
 
