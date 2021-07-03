@@ -51,6 +51,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Criando um modelo de Regressão Linear em Python** : https://github.com/LuisMig-code/Linear-Regression-com-precos-de-carros
 * **KNN - Tutorial** : https://github.com/LuisMig-code/KNN-Tutorial
 * **KMeans - Tutorial** : https://github.com/LuisMig-code/KMeans-Tutorial
+* **Dino Game feito em Python**: https://github.com/LuisMig-code/Dino-Game-with-Python
 
 <br><br>
 ## Projects:
@@ -62,6 +63,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 *  **Using Python to translate text** : https://github.com/LuisMig-code/Traduzindo_textos_com_python
 *  **DataApp TripAdvisor** : https://github.com/LuisMig-code/DataApp-TripAdvisor
 *  **Creating a Machine Learning Model for NLP from Scratch with Python** : https://github.com/LuisMig-code/NLP-com-Reviews-de-roupas-femininas | https://luis-miguel-code.medium.com/creating-an-nlp-template-from-scratch-with-python-a6dcd90513e7
+*  **Dino Game with Python**: https://github.com/LuisMig-code/Dino-Game-with-Python
 ---
 
 
