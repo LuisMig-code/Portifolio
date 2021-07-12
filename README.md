@@ -28,6 +28,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/luis-miguel-code/)
 * [Medium](https://medium.com/@meireles2013miguel)
+* [Youtube](https://www.youtube.com/channel/UC00-aPXcDWN7h3gOIKP0Ruw)
 
 
 ## Projetos:
