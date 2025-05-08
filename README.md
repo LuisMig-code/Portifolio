@@ -1,34 +1,22 @@
-<!-- [![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)-->
-
-<p align="center">
-  <img src="banner_.png" >
-</p>
-
 # Luís Miguel
 <sub></sub>
 
-*PT-BR* <br>
-Conhecedor de ciência de dados e amante de livros históricos, sou um jovem cientista de dados que aspira a uma grande carreira. Aliando à capacidade de análise crítica, trabalho em equipe, rapidez e organização, na criação de um projecto completo que vai além das expectativas e resultados, tendo já resolvido diversos problemas de natureza administrativa para empresas e agências.
+*PT-BR* 🎯<br>
+Sou Analista de Dados com foco em resolver problemas de marketing e negócios por meio de dados, automações e inteligência artificial. Tenho experiência em projetos que geraram aumento de faturamento e redução de custos com mídia paga, utilizando ferramentas como Python, Power BI, SQL, Google Colab e AWS. Também tenho conhecimento em machine learning, fluxos de automação e fundamentos de desenvolvimento web com HTML, CSS e JavaScript. Busco sempre transformar dados em ações estratégicas e soluções eficientes.
 
 Minhas credenciais incluem um curso técnico de Manutenção e Suporte em Informática pelo SENAI, uma das maiores e mais inovadoras instituições de ensino do Brasil e um Bacharelado em Ciência da Computação pela UFMA (Universidade Federal do Maranhão), a maior instituição de ensino do estado brasileiro do Maranhão
 
-**Experiência em:** Python, Machine Learning, Web scrapping (B4S) , análise de vendas (time series) e Data Analysis (análises gráficas e Dashboards)
-
 <br>
 
-*EN* <br>
-Connoisseur of data science and lover of historical books, I am a young data scientist who aspires to a great career. combined with the capacity for critical analysis, teamwork, speed and organization, in the creation of a complete project that goes beyond expectations and results, having already solved several problems of an administrative nature for companies and agencies.
+*EN* 🎯<br>
+I’m a Data Analyst focused on solving business and marketing challenges through data, automation, and artificial intelligence. I have experience in projects that increased revenue and reduced paid media costs by leveraging tools like Python, Power BI, SQL, Google Colab, and AWS. I also have knowledge in machine learning, automation workflows, and web development fundamentals using HTML, CSS, and JavaScript. My goal is always to turn data into strategic, actionable solutions.
 
 My credentials include a technical course on technical maintenance and IT support from SENAI, one of the largest and most innovative educational institutions in Brazil and a Bachelor of Computer Science from UFMA (Federal University of Maranhão), the largest educational institution in the state Brazilian from Maranhão
-
-**Experience in:** Python, machine learning, Web scrapping (B4S) , sales analysis (time series) and Data Analysis (graphical analysis and Dashboards)
 
 <hr>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/luis-miguel-code/)
-* [Medium](https://medium.com/@meireles2013miguel)
-* [Youtube](https://www.youtube.com/channel/UC00-aPXcDWN7h3gOIKP0Ruw)
 
 
 ## Projetos:
@@ -53,6 +41,11 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **KNN - Tutorial** : https://github.com/LuisMig-code/KNN-Tutorial
 * **KMeans - Tutorial** : https://github.com/LuisMig-code/KMeans-Tutorial | https://luis-miguel-code.medium.com/knn-k-nearest-neighbor-e-kneighborsclassifier-o-que-%C3%A9-como-funciona-e-exemplo-pr%C3%A1tico-5fdf181f460c
 * **Dino Game feito em Python**: https://github.com/LuisMig-code/Dino-Game-with-Python
+* **Multithreaded-Server-Implementation** : https://github.com/LuisMig-code/Multithreaded-Server-Implementation/
+* **Algorítmo Genético** : https://github.com/LuisMig-code/genetic-algorithm-implementation
+* **Conversor de AFN -> AFD** : https://github.com/LuisMig-code/Conversor-de-AFN-para-AFD
+* **Apache Airflow Pipeline Implementation** : https://github.com/LuisMig-code/Apache-Airflow-Pipeline-Implementation
+
 
 <br><br>
 ## Projects:
@@ -66,6 +59,10 @@ My credentials include a technical course on technical maintenance and IT suppor
 *  **Creating a Machine Learning Model for NLP from Scratch with Python** : https://github.com/LuisMig-code/NLP-com-Reviews-de-roupas-femininas | https://luis-miguel-code.medium.com/creating-an-nlp-template-from-scratch-with-python-a6dcd90513e7
 *  **KNN - Tutorial** : https://github.com/LuisMig-code/KNN-Tutorial | https://luis-miguel-code.medium.com/knn-k-nearest-neighbors-and-kneighborsclassifier-what-it-is-how-it-works-and-a-practical-914ec089e467
 *  **Dino Game with Python**: https://github.com/LuisMig-code/Dino-Game-with-Python
+*  **Multithreaded-Server-Implementation** : https://github.com/LuisMig-code/Multithreaded-Server-Implementation/
+* **Genetic Algorithm Implementation** : https://github.com/LuisMig-code/genetic-algorithm-implementation
+* **AFN to AFD Conversor** : https://github.com/LuisMig-code/Conversor-de-AFN-para-AFD
+* **Apache Airflow Pipeline Implementation** : https://github.com/LuisMig-code/Apache-Airflow-Pipeline-Implementation
 ---
 
 
