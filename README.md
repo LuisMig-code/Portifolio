@@ -45,6 +45,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Algorítmo Genético** : https://github.com/LuisMig-code/genetic-algorithm-implementation
 * **Conversor de AFN -> AFD** : https://github.com/LuisMig-code/Conversor-de-AFN-para-AFD
 * **Apache Airflow Pipeline Implementation** : https://github.com/LuisMig-code/Apache-Airflow-Pipeline-Implementation
+* **Encurtador de URL** : https://github.com/LuisMig-code/url-shortener
 
 
 <br><br>
@@ -63,6 +64,7 @@ My credentials include a technical course on technical maintenance and IT suppor
 * **Genetic Algorithm Implementation** : https://github.com/LuisMig-code/genetic-algorithm-implementation
 * **AFN to AFD Conversor** : https://github.com/LuisMig-code/Conversor-de-AFN-para-AFD
 * **Apache Airflow Pipeline Implementation** : https://github.com/LuisMig-code/Apache-Airflow-Pipeline-Implementation
+* **URL Shortner** : https://github.com/LuisMig-code/url-shortener
 ---
 
 
